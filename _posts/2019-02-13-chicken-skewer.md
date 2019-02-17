@@ -11,7 +11,6 @@ tags:
 - 닭
 - 꼬치
 categories: 
-- korean
 introduction:
 ---
 
