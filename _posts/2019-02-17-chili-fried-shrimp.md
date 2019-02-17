@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "chili fried shrimp"
+title: "깐쇼 새우"
 date: 2019-02-17 07:16:29
 image: '/assets/img/'
 description:
