@@ -12,7 +12,7 @@ tags:
 - 샐러드
 categories:
 twitter_text:
-introduction:
+introduction: "만능 참치 샐러드"
 ---
 
 ## 만드는 법
