@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "닭볶음 탕"
+title: "닭 볶음탕"
 date: 2019-02-21 09:40:54
 image: '/assets/img/'
 description:

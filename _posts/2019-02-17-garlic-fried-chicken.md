@@ -8,7 +8,7 @@ description:
 main-class: 'chinese'
 color:
 tags:
-- 깐풍기
+- 깐풍
 - 닭
 categories:
 twitter_text:
